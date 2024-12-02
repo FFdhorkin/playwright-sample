@@ -1,0 +1,30 @@
+{
+    "name": "playwright-sample",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "lint": "eslint tests",
+        "test": "playwright test",
+        "test:ui": "npx playwright test --ui"
+    },
+    "keywords": [],
+    "author": "Kinland",
+    "license": "UNLICENSED",
+    "description": "Dynamically-generated, parameterized Playwright sample test cases",
+    "devDependencies": {
+        "@eslint/js": "^8.57.0",
+        "@playwright/test": "^1.49.0",
+        "@stylistic/eslint-plugin-js": "^2.11.0",
+        "@types/node": "^22.10.1",
+        "eslint": "^8.57.0",
+        "typescript": "^5.7.2",
+        "typescript-eslint": "8.16.0"
+    },
+    "directories": {
+        "test": "tests"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kinland/playwright-sample.git"
+    }
+}

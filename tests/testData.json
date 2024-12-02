@@ -1,0 +1,60 @@
+{
+    "loginUrl": "https://animated-gingersnap-8cf7f2.netlify.app/",
+    "signedInUrl": "https://animated-gingersnap-8cf7f2.netlify.app/",
+    "credentials": {
+        "username": "",
+        "password": ""
+    },
+    "testCases": [
+        {
+            "project": "Web Application",
+            "column": "To Do",
+            "task": "Implement user authentication",
+            "expectedTags": [
+                "Feature",
+                "High Priority"
+            ]
+        },
+        {
+            "project": "Web Application",
+            "column": "To Do",
+            "task": "Fix navigation bug",
+            "expectedTags": [
+                "Bug"
+            ]
+        },
+        {
+            "project": "Web Application",
+            "column": "In Progress",
+            "task": "Design system updates",
+            "expectedTags": [
+                "Design"
+            ]
+        },
+        {
+            "project": "Mobile Application",
+            "column": "To Do",
+            "task": "Push notification system",
+            "expectedTags": [
+                "Feature"
+            ]
+        },
+        {
+            "project": "Mobile Application",
+            "column": "In Progress",
+            "task": "Offline mode",
+            "expectedTags": [
+                "Feature",
+                "High Priority"
+            ]
+        },
+        {
+            "project": "Mobile Application",
+            "column": "Done",
+            "task": "App icon design",
+            "expectedTags": [
+                "Design"
+            ]
+        }
+    ]
+}
